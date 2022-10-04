@@ -1,8 +1,8 @@
 Secondi piatti
 
- - Scaloppine ai funghi
- - Straccetti di pollo
- - Moussaka
- - Sovracosce di pollo
- - Involtini di Pollo
- - Filetto al pepe verde
+ - Scaloppine ai funghi  10€
+ - Straccetti di pollo   8€
+ - Moussaka              7€
+ - Sovracosce di pollo   9€
+ - Involtini di Pollo    8€
+ - Filetto al pepe verde 12€
